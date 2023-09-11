@@ -1,0 +1,13 @@
+.bottomleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+
+h1.title {
+  background-image: url(images/dsw-logo-horizontal-color-transparent.svg), url(images/UKCEH-Logo_Short_Positive_RGB.png);
+  background-repeat: no-repeat;
+  background-position: bottomleft, bottomright;
+  background-size: 200px, 200px;
+}
