@@ -1,6 +1,5 @@
 ---
-title: "Data Stewardship Wizard (DSW)"
-subtitle: "Integrating the DSW into UKCEH"
+title: "Integrating and Automating the Data Stewardship Wizard (DSW) for UKCEH"
 author: "Thomas Zwagerman"
 format:
   revealjs:
